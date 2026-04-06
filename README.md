@@ -1,40 +1,46 @@
-# Hi 👋 I'm (Your Name)
+👋 Hi, I'm Yogadeepan V
 
-🎓 Mechanical Engineering Student  
-💻 Aspiring Software Developer  
-🚀 Interested in IT Jobs & Full-Stack Development  
+🎓 Mechanical Engineering Graduate
+💻 Aspiring Software Developer
+🚀 Passionate about Full-Stack Development & IT Careers
 
----
+💫 About Me
 
-## 💫 About Me
-- 🌱 Currently learning: React, Node.js
-- 👨‍💻 I know: HTML, CSS, JavaScript, Python, SQL
-- 🎯 Goal: To become a Software Developer
-- 📫 Email: yourmail@gmail.com
+I’m a Mechanical Engineering graduate who transitioned into software development out of curiosity and passion for technology.
+I enjoy building real-world applications, learning modern web technologies, and solving practical problems through code.
 
----
+I love combining engineering thinking + software skills to create useful tools and dashboards.
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+🌱 Currently learning
+• React.js
+• Node.js
+• Full-Stack Development
+• System Design Basics
 
----
+👨‍💻 What I know
+• HTML • CSS • JavaScript
+• Python • SQL
+• Git & GitHub
+• Responsive UI Design
+• REST API basics
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+🎯 Career Goal
+To start my career as a Software Developer / Frontend Developer and grow into a Full-Stack Engineer.  
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+🛠️ Tech Stack
+Frontend
 
----
+HTML • CSS • JavaScript • React (learning)
+Tailwind CSS • Responsive Design
 
-## 🚀 Featured Projects
-🔗 Add your best project links here
+Backend
 
----
+Node.js (learning) • Python
 
-## 🌐 Connect With Me
-LinkedIn: (link here)
-Portfolio: (link here)
+Database
+
+MySQL • SQL
+
+Tools & Platforms
+
+Git • GitHub • VS Code • Figma • Vite    
